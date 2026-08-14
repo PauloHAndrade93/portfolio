@@ -4,7 +4,7 @@ Personal portfolio site, built as a single self-contained HTML file. Everything 
 markup, styles, and interactions — lives in `index.html`, with no build step, no
 package manager, and no third-party runtime. Open the file in a browser and it works.
 
-**Live URL:** (deploy in progress)
+**Live URL:** https://portfolio-two-pearl-reox7if8cj.vercel.app
 
 **Stack:** Pure HTML + CSS + JS. Zero dependencies. Zero build.
 
